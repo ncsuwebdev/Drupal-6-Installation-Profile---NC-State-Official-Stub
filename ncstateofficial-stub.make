@@ -18,4 +18,4 @@ projects[drupal][version] = 6.26
 projects[ncstateofficial][type] = profile
 projects[ncstateofficial][download][type] = git
 projects[ncstateofficial][download][url] = git://github.com/ncsuwebdev/Drupal-6-Installation-Profile---NC-State-Official.git
-projects[ncstateofficial][download][branch] = 6.x-1.3
+projects[ncstateofficial][download][branch] = 6.x-1.5
